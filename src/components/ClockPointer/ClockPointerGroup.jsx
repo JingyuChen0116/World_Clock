@@ -26,8 +26,8 @@ ClockPointerGroupWrapper.defaultProps = {
   white: '#fff',
   black: '#091921',
   light: Number(true),
-  bg_white: 'url(src/images/clock_white.png)',
-  bg_black: 'url(src/images/clock_black.png)',
+  bg_white: 'url(images/clock_white.png)',
+  bg_black: 'url(images/clock_black.png)',
 
   bg_white_box_shadow:
     "inset 0 0 30px rgba(0, 0, 0, 0.1), 0 20px 20px rgba(0, 0, 0, 0.2), 0 0 0 4px rgba(255, 255, 255, 1)",

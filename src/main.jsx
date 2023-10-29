@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { ClickToComponent  } from 'click-to-react-component'
+import { ClickToComponent } from 'click-to-react-component'
 import App from './App'
 
 import { createGlobalStyle, ThemeProvider } from 'styled-components'
